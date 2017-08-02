@@ -1,0 +1,9 @@
+gastric cancer 2016-06-27 2017-06-27
+(gastric cancer)
+{'J_ID': 2078, 'QUERY': 'gastric cancer', 'START_DATE': datetime.date(2016, 6, 25), 'END_DATE': datetime.date(2017, 6, 25)}
+INSERT IGNORE INTO JOB_PMID (J_ID,PMID) SELECT (%s), PMID FROM JOB_PMID WHERE J_ID =(%s)
+2016-06-27 2017-06-27 2016-06-25 2017-06-25
+(gastric cancer) AND (("2017-06-25"[Date - Create] : "2017-06-27"[Date - Create]))
+(gastric cancer) AND (("2016-06-25"[Date - Create] : "2016-06-26"[Date - Create]))
+200
+200

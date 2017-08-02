@@ -1,0 +1,789 @@
+{'first_genes': ['C059141'], 'second_genes': ['C112381'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 5.09, 'lev': 0.01, 'conv': 0.8, 'unknown': 0}
+{'first_genes': ['C047681'], 'second_genes': ['C112381'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 5.09, 'lev': 0.01, 'conv': 0.8, 'unknown': 0}
+{'first_genes': ['C467498'], 'second_genes': ['C093875'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 14.0, 'lev': 0.02, 'conv': 0.93, 'unknown': 0}
+{'first_genes': ['C047681'], 'second_genes': ['C093875'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 14.0, 'lev': 0.02, 'conv': 0.93, 'unknown': 0}
+{'first_genes': ['C548593'], 'second_genes': ['C548592'], 'first_count': 2, 'second_count': 2, 'conf': 1.0, 'lift': 18.67, 'lev': 0.03, 'conv': 1.89, 'unknown': 0}
+{'first_genes': ['C544814'], 'second_genes': ['C548592'], 'first_count': 2, 'second_count': 2, 'conf': 1.0, 'lift': 18.67, 'lev': 0.03, 'conv': 1.89, 'unknown': 0}
+{'first_genes': ['C548594'], 'second_genes': ['C548592'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 18.67, 'lev': 0.02, 'conv': 0.95, 'unknown': 0}
+{'first_genes': ['C043134'], 'second_genes': ['C548592'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 18.67, 'lev': 0.02, 'conv': 0.95, 'unknown': 0}
+{'first_genes': ['C043134'], 'second_genes': ['C083169'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 18.67, 'lev': 0.02, 'conv': 0.95, 'unknown': 0}
+{'first_genes': ['C043134'], 'second_genes': ['C041116'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 18.67, 'lev': 0.02, 'conv': 0.95, 'unknown': 0}
+{'first_genes': ['C548593'], 'second_genes': ['C544814'], 'first_count': 2, 'second_count': 2, 'conf': 1.0, 'lift': 28.0, 'lev': 0.03, 'conv': 1.93, 'unknown': 0}
+{'first_genes': ['C544814'], 'second_genes': ['C548593'], 'first_count': 2, 'second_count': 2, 'conf': 1.0, 'lift': 28.0, 'lev': 0.03, 'conv': 1.93, 'unknown': 0}
+{'first_genes': ['C548594'], 'second_genes': ['C548593'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 28.0, 'lev': 0.02, 'conv': 0.96, 'unknown': 0}
+{'first_genes': ['C548594'], 'second_genes': ['C544814'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 28.0, 'lev': 0.02, 'conv': 0.96, 'unknown': 0}
+{'first_genes': ['C047681'], 'second_genes': ['C483024'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 28.0, 'lev': 0.02, 'conv': 0.96, 'unknown': 0}
+{'first_genes': ['C554586'], 'second_genes': ['C479220'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 28.0, 'lev': 0.02, 'conv': 0.96, 'unknown': 0}
+{'first_genes': ['C494749'], 'second_genes': ['C479220'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 28.0, 'lev': 0.02, 'conv': 0.96, 'unknown': 0}
+{'first_genes': ['C451162'], 'second_genes': ['C479220'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 28.0, 'lev': 0.02, 'conv': 0.96, 'unknown': 0}
+{'first_genes': ['C418974'], 'second_genes': ['C479220'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 28.0, 'lev': 0.02, 'conv': 0.96, 'unknown': 0}
+{'first_genes': ['C554586'], 'second_genes': ['C406820'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 28.0, 'lev': 0.02, 'conv': 0.96, 'unknown': 0}
+{'first_genes': ['C494749'], 'second_genes': ['C406820'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 28.0, 'lev': 0.02, 'conv': 0.96, 'unknown': 0}
+{'first_genes': ['C451162'], 'second_genes': ['C406820'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 28.0, 'lev': 0.02, 'conv': 0.96, 'unknown': 0}
+{'first_genes': ['C418974'], 'second_genes': ['C406820'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 28.0, 'lev': 0.02, 'conv': 0.96, 'unknown': 0}
+{'first_genes': ['C101530'], 'second_genes': ['C406820'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 28.0, 'lev': 0.02, 'conv': 0.96, 'unknown': 0}
+{'first_genes': ['C554586'], 'second_genes': ['C494749'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C494749'], 'second_genes': ['C554586'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C554586'], 'second_genes': ['C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C451162'], 'second_genes': ['C554586'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C554586'], 'second_genes': ['C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C418974'], 'second_genes': ['C554586'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C547856'], 'second_genes': ['C499538'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C499538'], 'second_genes': ['C547856'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C547171'], 'second_genes': ['C079363'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C079363'], 'second_genes': ['C547171'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C507359'], 'second_genes': ['C119389'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C119389'], 'second_genes': ['C507359'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C507359'], 'second_genes': ['C026408'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C026408'], 'second_genes': ['C507359'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C494749'], 'second_genes': ['C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C451162'], 'second_genes': ['C494749'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C494749'], 'second_genes': ['C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C418974'], 'second_genes': ['C494749'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C451162'], 'second_genes': ['C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C418974'], 'second_genes': ['C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C119389'], 'second_genes': ['C026408'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C026408'], 'second_genes': ['C119389'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C112381', 'C483024'], 'second_genes': ['C093875'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 14.0, 'lev': 0.02, 'conv': 0.93, 'unknown': 0}
+{'first_genes': ['C093875', 'C483024'], 'second_genes': ['C112381'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 5.09, 'lev': 0.01, 'conv': 0.8, 'unknown': 0}
+{'first_genes': ['C047681'], 'second_genes': ['C112381', 'C093875'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 28.0, 'lev': 0.02, 'conv': 0.96, 'unknown': 0}
+{'first_genes': ['C112381', 'C047681'], 'second_genes': ['C093875'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 14.0, 'lev': 0.02, 'conv': 0.93, 'unknown': 0}
+{'first_genes': ['C093875', 'C047681'], 'second_genes': ['C112381'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 5.09, 'lev': 0.01, 'conv': 0.8, 'unknown': 0}
+{'first_genes': ['C112381', 'C041116'], 'second_genes': ['C083169'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 18.67, 'lev': 0.02, 'conv': 0.95, 'unknown': 0}
+{'first_genes': ['C112381', 'C483024'], 'second_genes': ['C047681'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C047681'], 'second_genes': ['C112381', 'C483024'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C112381', 'C047681'], 'second_genes': ['C483024'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 28.0, 'lev': 0.02, 'conv': 0.96, 'unknown': 0}
+{'first_genes': ['C483024', 'C047681'], 'second_genes': ['C112381'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 5.09, 'lev': 0.01, 'conv': 0.8, 'unknown': 0}
+{'first_genes': ['C093875', 'C483024'], 'second_genes': ['C047681'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C047681'], 'second_genes': ['C093875', 'C483024'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C093875', 'C047681'], 'second_genes': ['C483024'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 28.0, 'lev': 0.02, 'conv': 0.96, 'unknown': 0}
+{'first_genes': ['C483024', 'C047681'], 'second_genes': ['C093875'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 14.0, 'lev': 0.02, 'conv': 0.93, 'unknown': 0}
+{'first_genes': ['C548592', 'C083169'], 'second_genes': ['C041116'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 18.67, 'lev': 0.02, 'conv': 0.95, 'unknown': 0}
+{'first_genes': ['C548592', 'C041116'], 'second_genes': ['C083169'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 18.67, 'lev': 0.02, 'conv': 0.95, 'unknown': 0}
+{'first_genes': ['C548592', 'C083169'], 'second_genes': ['C043134'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C043134'], 'second_genes': ['C548592', 'C083169'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C548592', 'C043134'], 'second_genes': ['C083169'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 18.67, 'lev': 0.02, 'conv': 0.95, 'unknown': 0}
+{'first_genes': ['C083169', 'C043134'], 'second_genes': ['C548592'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 18.67, 'lev': 0.02, 'conv': 0.95, 'unknown': 0}
+{'first_genes': ['C548592', 'C041116'], 'second_genes': ['C043134'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C043134'], 'second_genes': ['C548592', 'C041116'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C548592', 'C043134'], 'second_genes': ['C041116'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 18.67, 'lev': 0.02, 'conv': 0.95, 'unknown': 0}
+{'first_genes': ['C041116', 'C043134'], 'second_genes': ['C548592'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 18.67, 'lev': 0.02, 'conv': 0.95, 'unknown': 0}
+{'first_genes': ['C548593'], 'second_genes': ['C548592', 'C544814'], 'first_count': 2, 'second_count': 2, 'conf': 1.0, 'lift': 28.0, 'lev': 0.03, 'conv': 1.93, 'unknown': 0}
+{'first_genes': ['C548592', 'C548593'], 'second_genes': ['C544814'], 'first_count': 2, 'second_count': 2, 'conf': 1.0, 'lift': 28.0, 'lev': 0.03, 'conv': 1.93, 'unknown': 0}
+{'first_genes': ['C544814'], 'second_genes': ['C548592', 'C548593'], 'first_count': 2, 'second_count': 2, 'conf': 1.0, 'lift': 28.0, 'lev': 0.03, 'conv': 1.93, 'unknown': 0}
+{'first_genes': ['C548592', 'C544814'], 'second_genes': ['C548593'], 'first_count': 2, 'second_count': 2, 'conf': 1.0, 'lift': 28.0, 'lev': 0.03, 'conv': 1.93, 'unknown': 0}
+{'first_genes': ['C548593', 'C544814'], 'second_genes': ['C548592'], 'first_count': 2, 'second_count': 2, 'conf': 1.0, 'lift': 18.67, 'lev': 0.03, 'conv': 1.89, 'unknown': 0}
+{'first_genes': ['C548594'], 'second_genes': ['C548592', 'C548593'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 28.0, 'lev': 0.02, 'conv': 0.96, 'unknown': 0}
+{'first_genes': ['C548592', 'C548594'], 'second_genes': ['C548593'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 28.0, 'lev': 0.02, 'conv': 0.96, 'unknown': 0}
+{'first_genes': ['C548593', 'C548594'], 'second_genes': ['C548592'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 18.67, 'lev': 0.02, 'conv': 0.95, 'unknown': 0}
+{'first_genes': ['C548594'], 'second_genes': ['C548592', 'C544814'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 28.0, 'lev': 0.02, 'conv': 0.96, 'unknown': 0}
+{'first_genes': ['C548592', 'C548594'], 'second_genes': ['C544814'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 28.0, 'lev': 0.02, 'conv': 0.96, 'unknown': 0}
+{'first_genes': ['C544814', 'C548594'], 'second_genes': ['C548592'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 18.67, 'lev': 0.02, 'conv': 0.95, 'unknown': 0}
+{'first_genes': ['C043134'], 'second_genes': ['C083169', 'C041116'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 28.0, 'lev': 0.02, 'conv': 0.96, 'unknown': 0}
+{'first_genes': ['C083169', 'C043134'], 'second_genes': ['C041116'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 18.67, 'lev': 0.02, 'conv': 0.95, 'unknown': 0}
+{'first_genes': ['C041116', 'C043134'], 'second_genes': ['C083169'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 18.67, 'lev': 0.02, 'conv': 0.95, 'unknown': 0}
+{'first_genes': ['C548594'], 'second_genes': ['C548593', 'C544814'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 28.0, 'lev': 0.02, 'conv': 0.96, 'unknown': 0}
+{'first_genes': ['C548593', 'C548594'], 'second_genes': ['C544814'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 28.0, 'lev': 0.02, 'conv': 0.96, 'unknown': 0}
+{'first_genes': ['C544814', 'C548594'], 'second_genes': ['C548593'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 28.0, 'lev': 0.02, 'conv': 0.96, 'unknown': 0}
+{'first_genes': ['C479220', 'C406820'], 'second_genes': ['C554586'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C554586'], 'second_genes': ['C479220', 'C406820'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C554586'], 'second_genes': ['C406820'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 28.0, 'lev': 0.02, 'conv': 0.96, 'unknown': 0}
+{'first_genes': ['C406820', 'C554586'], 'second_genes': ['C479220'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 28.0, 'lev': 0.02, 'conv': 0.96, 'unknown': 0}
+{'first_genes': ['C479220', 'C406820'], 'second_genes': ['C494749'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C494749'], 'second_genes': ['C479220', 'C406820'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C494749'], 'second_genes': ['C406820'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 28.0, 'lev': 0.02, 'conv': 0.96, 'unknown': 0}
+{'first_genes': ['C406820', 'C494749'], 'second_genes': ['C479220'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 28.0, 'lev': 0.02, 'conv': 0.96, 'unknown': 0}
+{'first_genes': ['C479220', 'C406820'], 'second_genes': ['C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C451162'], 'second_genes': ['C479220', 'C406820'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C451162'], 'second_genes': ['C406820'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 28.0, 'lev': 0.02, 'conv': 0.96, 'unknown': 0}
+{'first_genes': ['C406820', 'C451162'], 'second_genes': ['C479220'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 28.0, 'lev': 0.02, 'conv': 0.96, 'unknown': 0}
+{'first_genes': ['C479220', 'C406820'], 'second_genes': ['C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C418974'], 'second_genes': ['C479220', 'C406820'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C418974'], 'second_genes': ['C406820'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 28.0, 'lev': 0.02, 'conv': 0.96, 'unknown': 0}
+{'first_genes': ['C406820', 'C418974'], 'second_genes': ['C479220'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 28.0, 'lev': 0.02, 'conv': 0.96, 'unknown': 0}
+{'first_genes': ['C554586'], 'second_genes': ['C479220', 'C494749'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C554586'], 'second_genes': ['C494749'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C494749'], 'second_genes': ['C479220', 'C554586'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C494749'], 'second_genes': ['C554586'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C554586', 'C494749'], 'second_genes': ['C479220'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 28.0, 'lev': 0.02, 'conv': 0.96, 'unknown': 0}
+{'first_genes': ['C554586'], 'second_genes': ['C479220', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C554586'], 'second_genes': ['C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C451162'], 'second_genes': ['C479220', 'C554586'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C451162'], 'second_genes': ['C554586'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C554586', 'C451162'], 'second_genes': ['C479220'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 28.0, 'lev': 0.02, 'conv': 0.96, 'unknown': 0}
+{'first_genes': ['C554586'], 'second_genes': ['C479220', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C554586'], 'second_genes': ['C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C418974'], 'second_genes': ['C479220', 'C554586'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C418974'], 'second_genes': ['C554586'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C554586', 'C418974'], 'second_genes': ['C479220'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 28.0, 'lev': 0.02, 'conv': 0.96, 'unknown': 0}
+{'first_genes': ['C494749'], 'second_genes': ['C479220', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C494749'], 'second_genes': ['C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C451162'], 'second_genes': ['C479220', 'C494749'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C451162'], 'second_genes': ['C494749'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C494749', 'C451162'], 'second_genes': ['C479220'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 28.0, 'lev': 0.02, 'conv': 0.96, 'unknown': 0}
+{'first_genes': ['C494749'], 'second_genes': ['C479220', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C494749'], 'second_genes': ['C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C418974'], 'second_genes': ['C479220', 'C494749'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C418974'], 'second_genes': ['C494749'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C494749', 'C418974'], 'second_genes': ['C479220'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 28.0, 'lev': 0.02, 'conv': 0.96, 'unknown': 0}
+{'first_genes': ['C451162'], 'second_genes': ['C479220', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C451162'], 'second_genes': ['C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C418974'], 'second_genes': ['C479220', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C418974'], 'second_genes': ['C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C451162', 'C418974'], 'second_genes': ['C479220'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 28.0, 'lev': 0.02, 'conv': 0.96, 'unknown': 0}
+{'first_genes': ['C554586'], 'second_genes': ['C406820', 'C494749'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C554586'], 'second_genes': ['C494749'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C494749'], 'second_genes': ['C406820', 'C554586'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C494749'], 'second_genes': ['C554586'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C554586', 'C494749'], 'second_genes': ['C406820'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 28.0, 'lev': 0.02, 'conv': 0.96, 'unknown': 0}
+{'first_genes': ['C554586'], 'second_genes': ['C406820', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C554586'], 'second_genes': ['C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C451162'], 'second_genes': ['C406820', 'C554586'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C451162'], 'second_genes': ['C554586'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C554586', 'C451162'], 'second_genes': ['C406820'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 28.0, 'lev': 0.02, 'conv': 0.96, 'unknown': 0}
+{'first_genes': ['C554586'], 'second_genes': ['C406820', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C554586'], 'second_genes': ['C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C418974'], 'second_genes': ['C406820', 'C554586'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C418974'], 'second_genes': ['C554586'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C554586', 'C418974'], 'second_genes': ['C406820'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 28.0, 'lev': 0.02, 'conv': 0.96, 'unknown': 0}
+{'first_genes': ['C494749'], 'second_genes': ['C406820', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C494749'], 'second_genes': ['C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C451162'], 'second_genes': ['C406820', 'C494749'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C451162'], 'second_genes': ['C494749'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C494749', 'C451162'], 'second_genes': ['C406820'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 28.0, 'lev': 0.02, 'conv': 0.96, 'unknown': 0}
+{'first_genes': ['C494749'], 'second_genes': ['C406820', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C494749'], 'second_genes': ['C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C418974'], 'second_genes': ['C406820', 'C494749'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C418974'], 'second_genes': ['C494749'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C494749', 'C418974'], 'second_genes': ['C406820'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 28.0, 'lev': 0.02, 'conv': 0.96, 'unknown': 0}
+{'first_genes': ['C451162'], 'second_genes': ['C406820', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C451162'], 'second_genes': ['C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C418974'], 'second_genes': ['C406820', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C418974'], 'second_genes': ['C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C451162', 'C418974'], 'second_genes': ['C406820'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 28.0, 'lev': 0.02, 'conv': 0.96, 'unknown': 0}
+{'first_genes': ['C554586'], 'second_genes': ['C494749', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C494749'], 'second_genes': ['C554586', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C554586', 'C494749'], 'second_genes': ['C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C451162'], 'second_genes': ['C554586', 'C494749'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C554586', 'C451162'], 'second_genes': ['C494749'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C494749', 'C451162'], 'second_genes': ['C554586'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C554586'], 'second_genes': ['C494749', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C494749'], 'second_genes': ['C554586', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C554586', 'C494749'], 'second_genes': ['C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C418974'], 'second_genes': ['C554586', 'C494749'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C554586', 'C418974'], 'second_genes': ['C494749'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C494749', 'C418974'], 'second_genes': ['C554586'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C554586'], 'second_genes': ['C451162', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C451162'], 'second_genes': ['C554586', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C554586', 'C451162'], 'second_genes': ['C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C418974'], 'second_genes': ['C554586', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C554586', 'C418974'], 'second_genes': ['C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C451162', 'C418974'], 'second_genes': ['C554586'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C507359'], 'second_genes': ['C119389', 'C026408'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C119389'], 'second_genes': ['C507359', 'C026408'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C507359', 'C119389'], 'second_genes': ['C026408'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C026408'], 'second_genes': ['C507359', 'C119389'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C507359', 'C026408'], 'second_genes': ['C119389'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C119389', 'C026408'], 'second_genes': ['C507359'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C494749'], 'second_genes': ['C451162', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C451162'], 'second_genes': ['C494749', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C494749', 'C451162'], 'second_genes': ['C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C418974'], 'second_genes': ['C494749', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C494749', 'C418974'], 'second_genes': ['C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C451162', 'C418974'], 'second_genes': ['C494749'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C112381', 'C483024'], 'second_genes': ['C093875', 'C047681'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C093875', 'C483024'], 'second_genes': ['C112381', 'C047681'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C112381', 'C093875', 'C483024'], 'second_genes': ['C047681'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C047681'], 'second_genes': ['C112381', 'C093875', 'C483024'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C112381', 'C047681'], 'second_genes': ['C093875', 'C483024'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C093875', 'C047681'], 'second_genes': ['C112381', 'C483024'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C112381', 'C093875', 'C047681'], 'second_genes': ['C483024'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 28.0, 'lev': 0.02, 'conv': 0.96, 'unknown': 0}
+{'first_genes': ['C483024', 'C047681'], 'second_genes': ['C112381', 'C093875'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 28.0, 'lev': 0.02, 'conv': 0.96, 'unknown': 0}
+{'first_genes': ['C112381', 'C483024', 'C047681'], 'second_genes': ['C093875'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 14.0, 'lev': 0.02, 'conv': 0.93, 'unknown': 0}
+{'first_genes': ['C093875', 'C483024', 'C047681'], 'second_genes': ['C112381'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 5.09, 'lev': 0.01, 'conv': 0.8, 'unknown': 0}
+{'first_genes': ['C548592', 'C083169'], 'second_genes': ['C041116', 'C043134'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C548592', 'C041116'], 'second_genes': ['C083169', 'C043134'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C548592', 'C083169', 'C041116'], 'second_genes': ['C043134'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C043134'], 'second_genes': ['C548592', 'C083169', 'C041116'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C548592', 'C043134'], 'second_genes': ['C083169', 'C041116'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 28.0, 'lev': 0.02, 'conv': 0.96, 'unknown': 0}
+{'first_genes': ['C083169', 'C043134'], 'second_genes': ['C548592', 'C041116'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C548592', 'C083169', 'C043134'], 'second_genes': ['C041116'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 18.67, 'lev': 0.02, 'conv': 0.95, 'unknown': 0}
+{'first_genes': ['C041116', 'C043134'], 'second_genes': ['C548592', 'C083169'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C548592', 'C041116', 'C043134'], 'second_genes': ['C083169'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 18.67, 'lev': 0.02, 'conv': 0.95, 'unknown': 0}
+{'first_genes': ['C083169', 'C041116', 'C043134'], 'second_genes': ['C548592'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 18.67, 'lev': 0.02, 'conv': 0.95, 'unknown': 0}
+{'first_genes': ['C548594'], 'second_genes': ['C548592', 'C548593', 'C544814'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 28.0, 'lev': 0.02, 'conv': 0.96, 'unknown': 0}
+{'first_genes': ['C548592', 'C548594'], 'second_genes': ['C548593', 'C544814'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 28.0, 'lev': 0.02, 'conv': 0.96, 'unknown': 0}
+{'first_genes': ['C548593', 'C548594'], 'second_genes': ['C548592', 'C544814'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 28.0, 'lev': 0.02, 'conv': 0.96, 'unknown': 0}
+{'first_genes': ['C548592', 'C548593', 'C548594'], 'second_genes': ['C544814'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 28.0, 'lev': 0.02, 'conv': 0.96, 'unknown': 0}
+{'first_genes': ['C544814', 'C548594'], 'second_genes': ['C548592', 'C548593'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 28.0, 'lev': 0.02, 'conv': 0.96, 'unknown': 0}
+{'first_genes': ['C548592', 'C544814', 'C548594'], 'second_genes': ['C548593'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 28.0, 'lev': 0.02, 'conv': 0.96, 'unknown': 0}
+{'first_genes': ['C548593', 'C544814', 'C548594'], 'second_genes': ['C548592'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 18.67, 'lev': 0.02, 'conv': 0.95, 'unknown': 0}
+{'first_genes': ['C479220', 'C406820'], 'second_genes': ['C554586', 'C494749'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C554586'], 'second_genes': ['C479220', 'C406820', 'C494749'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C554586'], 'second_genes': ['C406820', 'C494749'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C554586'], 'second_genes': ['C479220', 'C494749'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C406820', 'C554586'], 'second_genes': ['C494749'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C494749'], 'second_genes': ['C479220', 'C406820', 'C554586'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C494749'], 'second_genes': ['C406820', 'C554586'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C494749'], 'second_genes': ['C479220', 'C554586'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C406820', 'C494749'], 'second_genes': ['C554586'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C554586', 'C494749'], 'second_genes': ['C479220', 'C406820'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C554586', 'C494749'], 'second_genes': ['C406820'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 28.0, 'lev': 0.02, 'conv': 0.96, 'unknown': 0}
+{'first_genes': ['C406820', 'C554586', 'C494749'], 'second_genes': ['C479220'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 28.0, 'lev': 0.02, 'conv': 0.96, 'unknown': 0}
+{'first_genes': ['C479220', 'C406820'], 'second_genes': ['C554586', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C554586'], 'second_genes': ['C479220', 'C406820', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C554586'], 'second_genes': ['C406820', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C554586'], 'second_genes': ['C479220', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C406820', 'C554586'], 'second_genes': ['C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C451162'], 'second_genes': ['C479220', 'C406820', 'C554586'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C451162'], 'second_genes': ['C406820', 'C554586'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C451162'], 'second_genes': ['C479220', 'C554586'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C406820', 'C451162'], 'second_genes': ['C554586'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C554586', 'C451162'], 'second_genes': ['C479220', 'C406820'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C554586', 'C451162'], 'second_genes': ['C406820'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 28.0, 'lev': 0.02, 'conv': 0.96, 'unknown': 0}
+{'first_genes': ['C406820', 'C554586', 'C451162'], 'second_genes': ['C479220'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 28.0, 'lev': 0.02, 'conv': 0.96, 'unknown': 0}
+{'first_genes': ['C479220', 'C406820'], 'second_genes': ['C554586', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C554586'], 'second_genes': ['C479220', 'C406820', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C554586'], 'second_genes': ['C406820', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C554586'], 'second_genes': ['C479220', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C406820', 'C554586'], 'second_genes': ['C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C418974'], 'second_genes': ['C479220', 'C406820', 'C554586'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C418974'], 'second_genes': ['C406820', 'C554586'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C418974'], 'second_genes': ['C479220', 'C554586'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C406820', 'C418974'], 'second_genes': ['C554586'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C554586', 'C418974'], 'second_genes': ['C479220', 'C406820'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C554586', 'C418974'], 'second_genes': ['C406820'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 28.0, 'lev': 0.02, 'conv': 0.96, 'unknown': 0}
+{'first_genes': ['C406820', 'C554586', 'C418974'], 'second_genes': ['C479220'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 28.0, 'lev': 0.02, 'conv': 0.96, 'unknown': 0}
+{'first_genes': ['C479220', 'C406820'], 'second_genes': ['C494749', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C494749'], 'second_genes': ['C479220', 'C406820', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C494749'], 'second_genes': ['C406820', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C494749'], 'second_genes': ['C479220', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C406820', 'C494749'], 'second_genes': ['C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C451162'], 'second_genes': ['C479220', 'C406820', 'C494749'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C451162'], 'second_genes': ['C406820', 'C494749'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C451162'], 'second_genes': ['C479220', 'C494749'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C406820', 'C451162'], 'second_genes': ['C494749'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C494749', 'C451162'], 'second_genes': ['C479220', 'C406820'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C494749', 'C451162'], 'second_genes': ['C406820'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 28.0, 'lev': 0.02, 'conv': 0.96, 'unknown': 0}
+{'first_genes': ['C406820', 'C494749', 'C451162'], 'second_genes': ['C479220'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 28.0, 'lev': 0.02, 'conv': 0.96, 'unknown': 0}
+{'first_genes': ['C479220', 'C406820'], 'second_genes': ['C494749', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C494749'], 'second_genes': ['C479220', 'C406820', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C494749'], 'second_genes': ['C406820', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C494749'], 'second_genes': ['C479220', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C406820', 'C494749'], 'second_genes': ['C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C418974'], 'second_genes': ['C479220', 'C406820', 'C494749'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C418974'], 'second_genes': ['C406820', 'C494749'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C418974'], 'second_genes': ['C479220', 'C494749'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C406820', 'C418974'], 'second_genes': ['C494749'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C494749', 'C418974'], 'second_genes': ['C479220', 'C406820'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C494749', 'C418974'], 'second_genes': ['C406820'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 28.0, 'lev': 0.02, 'conv': 0.96, 'unknown': 0}
+{'first_genes': ['C406820', 'C494749', 'C418974'], 'second_genes': ['C479220'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 28.0, 'lev': 0.02, 'conv': 0.96, 'unknown': 0}
+{'first_genes': ['C479220', 'C406820'], 'second_genes': ['C451162', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C451162'], 'second_genes': ['C479220', 'C406820', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C451162'], 'second_genes': ['C406820', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C451162'], 'second_genes': ['C479220', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C406820', 'C451162'], 'second_genes': ['C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C418974'], 'second_genes': ['C479220', 'C406820', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C418974'], 'second_genes': ['C406820', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C418974'], 'second_genes': ['C479220', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C406820', 'C418974'], 'second_genes': ['C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C451162', 'C418974'], 'second_genes': ['C479220', 'C406820'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C451162', 'C418974'], 'second_genes': ['C406820'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 28.0, 'lev': 0.02, 'conv': 0.96, 'unknown': 0}
+{'first_genes': ['C406820', 'C451162', 'C418974'], 'second_genes': ['C479220'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 28.0, 'lev': 0.02, 'conv': 0.96, 'unknown': 0}
+{'first_genes': ['C554586'], 'second_genes': ['C479220', 'C494749', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C554586'], 'second_genes': ['C494749', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C494749'], 'second_genes': ['C479220', 'C554586', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C494749'], 'second_genes': ['C554586', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C554586', 'C494749'], 'second_genes': ['C479220', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C554586', 'C494749'], 'second_genes': ['C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C451162'], 'second_genes': ['C479220', 'C554586', 'C494749'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C451162'], 'second_genes': ['C554586', 'C494749'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C554586', 'C451162'], 'second_genes': ['C479220', 'C494749'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C554586', 'C451162'], 'second_genes': ['C494749'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C494749', 'C451162'], 'second_genes': ['C479220', 'C554586'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C494749', 'C451162'], 'second_genes': ['C554586'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C554586', 'C494749', 'C451162'], 'second_genes': ['C479220'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 28.0, 'lev': 0.02, 'conv': 0.96, 'unknown': 0}
+{'first_genes': ['C554586'], 'second_genes': ['C479220', 'C494749', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C554586'], 'second_genes': ['C494749', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C494749'], 'second_genes': ['C479220', 'C554586', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C494749'], 'second_genes': ['C554586', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C554586', 'C494749'], 'second_genes': ['C479220', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C554586', 'C494749'], 'second_genes': ['C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C418974'], 'second_genes': ['C479220', 'C554586', 'C494749'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C418974'], 'second_genes': ['C554586', 'C494749'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C554586', 'C418974'], 'second_genes': ['C479220', 'C494749'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C554586', 'C418974'], 'second_genes': ['C494749'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C494749', 'C418974'], 'second_genes': ['C479220', 'C554586'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C494749', 'C418974'], 'second_genes': ['C554586'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C554586', 'C494749', 'C418974'], 'second_genes': ['C479220'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 28.0, 'lev': 0.02, 'conv': 0.96, 'unknown': 0}
+{'first_genes': ['C554586'], 'second_genes': ['C479220', 'C451162', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C554586'], 'second_genes': ['C451162', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C451162'], 'second_genes': ['C479220', 'C554586', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C451162'], 'second_genes': ['C554586', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C554586', 'C451162'], 'second_genes': ['C479220', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C554586', 'C451162'], 'second_genes': ['C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C418974'], 'second_genes': ['C479220', 'C554586', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C418974'], 'second_genes': ['C554586', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C554586', 'C418974'], 'second_genes': ['C479220', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C554586', 'C418974'], 'second_genes': ['C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C451162', 'C418974'], 'second_genes': ['C479220', 'C554586'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C451162', 'C418974'], 'second_genes': ['C554586'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C554586', 'C451162', 'C418974'], 'second_genes': ['C479220'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 28.0, 'lev': 0.02, 'conv': 0.96, 'unknown': 0}
+{'first_genes': ['C494749'], 'second_genes': ['C479220', 'C451162', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C494749'], 'second_genes': ['C451162', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C451162'], 'second_genes': ['C479220', 'C494749', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C451162'], 'second_genes': ['C494749', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C494749', 'C451162'], 'second_genes': ['C479220', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C494749', 'C451162'], 'second_genes': ['C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C418974'], 'second_genes': ['C479220', 'C494749', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C418974'], 'second_genes': ['C494749', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C494749', 'C418974'], 'second_genes': ['C479220', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C494749', 'C418974'], 'second_genes': ['C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C451162', 'C418974'], 'second_genes': ['C479220', 'C494749'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C451162', 'C418974'], 'second_genes': ['C494749'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C494749', 'C451162', 'C418974'], 'second_genes': ['C479220'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 28.0, 'lev': 0.02, 'conv': 0.96, 'unknown': 0}
+{'first_genes': ['C554586'], 'second_genes': ['C406820', 'C494749', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C554586'], 'second_genes': ['C494749', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C494749'], 'second_genes': ['C406820', 'C554586', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C494749'], 'second_genes': ['C554586', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C554586', 'C494749'], 'second_genes': ['C406820', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C554586', 'C494749'], 'second_genes': ['C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C451162'], 'second_genes': ['C406820', 'C554586', 'C494749'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C451162'], 'second_genes': ['C554586', 'C494749'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C554586', 'C451162'], 'second_genes': ['C406820', 'C494749'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C554586', 'C451162'], 'second_genes': ['C494749'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C494749', 'C451162'], 'second_genes': ['C406820', 'C554586'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C494749', 'C451162'], 'second_genes': ['C554586'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C554586', 'C494749', 'C451162'], 'second_genes': ['C406820'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 28.0, 'lev': 0.02, 'conv': 0.96, 'unknown': 0}
+{'first_genes': ['C554586'], 'second_genes': ['C406820', 'C494749', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C554586'], 'second_genes': ['C494749', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C494749'], 'second_genes': ['C406820', 'C554586', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C494749'], 'second_genes': ['C554586', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C554586', 'C494749'], 'second_genes': ['C406820', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C554586', 'C494749'], 'second_genes': ['C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C418974'], 'second_genes': ['C406820', 'C554586', 'C494749'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C418974'], 'second_genes': ['C554586', 'C494749'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C554586', 'C418974'], 'second_genes': ['C406820', 'C494749'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C554586', 'C418974'], 'second_genes': ['C494749'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C494749', 'C418974'], 'second_genes': ['C406820', 'C554586'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C494749', 'C418974'], 'second_genes': ['C554586'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C554586', 'C494749', 'C418974'], 'second_genes': ['C406820'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 28.0, 'lev': 0.02, 'conv': 0.96, 'unknown': 0}
+{'first_genes': ['C554586'], 'second_genes': ['C406820', 'C451162', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C554586'], 'second_genes': ['C451162', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C451162'], 'second_genes': ['C406820', 'C554586', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C451162'], 'second_genes': ['C554586', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C554586', 'C451162'], 'second_genes': ['C406820', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C554586', 'C451162'], 'second_genes': ['C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C418974'], 'second_genes': ['C406820', 'C554586', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C418974'], 'second_genes': ['C554586', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C554586', 'C418974'], 'second_genes': ['C406820', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C554586', 'C418974'], 'second_genes': ['C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C451162', 'C418974'], 'second_genes': ['C406820', 'C554586'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C451162', 'C418974'], 'second_genes': ['C554586'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C554586', 'C451162', 'C418974'], 'second_genes': ['C406820'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 28.0, 'lev': 0.02, 'conv': 0.96, 'unknown': 0}
+{'first_genes': ['C494749'], 'second_genes': ['C406820', 'C451162', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C494749'], 'second_genes': ['C451162', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C451162'], 'second_genes': ['C406820', 'C494749', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C451162'], 'second_genes': ['C494749', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C494749', 'C451162'], 'second_genes': ['C406820', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C494749', 'C451162'], 'second_genes': ['C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C418974'], 'second_genes': ['C406820', 'C494749', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C418974'], 'second_genes': ['C494749', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C494749', 'C418974'], 'second_genes': ['C406820', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C494749', 'C418974'], 'second_genes': ['C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C451162', 'C418974'], 'second_genes': ['C406820', 'C494749'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C451162', 'C418974'], 'second_genes': ['C494749'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C494749', 'C451162', 'C418974'], 'second_genes': ['C406820'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 28.0, 'lev': 0.02, 'conv': 0.96, 'unknown': 0}
+{'first_genes': ['C554586'], 'second_genes': ['C494749', 'C451162', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C494749'], 'second_genes': ['C554586', 'C451162', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C554586', 'C494749'], 'second_genes': ['C451162', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C451162'], 'second_genes': ['C554586', 'C494749', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C554586', 'C451162'], 'second_genes': ['C494749', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C494749', 'C451162'], 'second_genes': ['C554586', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C554586', 'C494749', 'C451162'], 'second_genes': ['C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C418974'], 'second_genes': ['C554586', 'C494749', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C554586', 'C418974'], 'second_genes': ['C494749', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C494749', 'C418974'], 'second_genes': ['C554586', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C554586', 'C494749', 'C418974'], 'second_genes': ['C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C451162', 'C418974'], 'second_genes': ['C554586', 'C494749'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C554586', 'C451162', 'C418974'], 'second_genes': ['C494749'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C494749', 'C451162', 'C418974'], 'second_genes': ['C554586'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C406820'], 'second_genes': ['C554586', 'C494749', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C554586'], 'second_genes': ['C479220', 'C406820', 'C494749', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C554586'], 'second_genes': ['C406820', 'C494749', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C554586'], 'second_genes': ['C479220', 'C494749', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C406820', 'C554586'], 'second_genes': ['C494749', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C494749'], 'second_genes': ['C479220', 'C406820', 'C554586', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C494749'], 'second_genes': ['C406820', 'C554586', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C494749'], 'second_genes': ['C479220', 'C554586', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C406820', 'C494749'], 'second_genes': ['C554586', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C554586', 'C494749'], 'second_genes': ['C479220', 'C406820', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C554586', 'C494749'], 'second_genes': ['C406820', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C554586', 'C494749'], 'second_genes': ['C479220', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C406820', 'C554586', 'C494749'], 'second_genes': ['C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C451162'], 'second_genes': ['C479220', 'C406820', 'C554586', 'C494749'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C451162'], 'second_genes': ['C406820', 'C554586', 'C494749'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C451162'], 'second_genes': ['C479220', 'C554586', 'C494749'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C406820', 'C451162'], 'second_genes': ['C554586', 'C494749'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C554586', 'C451162'], 'second_genes': ['C479220', 'C406820', 'C494749'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C554586', 'C451162'], 'second_genes': ['C406820', 'C494749'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C554586', 'C451162'], 'second_genes': ['C479220', 'C494749'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C406820', 'C554586', 'C451162'], 'second_genes': ['C494749'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C494749', 'C451162'], 'second_genes': ['C479220', 'C406820', 'C554586'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C494749', 'C451162'], 'second_genes': ['C406820', 'C554586'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C494749', 'C451162'], 'second_genes': ['C479220', 'C554586'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C406820', 'C494749', 'C451162'], 'second_genes': ['C554586'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C554586', 'C494749', 'C451162'], 'second_genes': ['C479220', 'C406820'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C554586', 'C494749', 'C451162'], 'second_genes': ['C406820'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 28.0, 'lev': 0.02, 'conv': 0.96, 'unknown': 0}
+{'first_genes': ['C406820', 'C554586', 'C494749', 'C451162'], 'second_genes': ['C479220'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 28.0, 'lev': 0.02, 'conv': 0.96, 'unknown': 0}
+{'first_genes': ['C479220', 'C406820'], 'second_genes': ['C554586', 'C494749', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C554586'], 'second_genes': ['C479220', 'C406820', 'C494749', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C554586'], 'second_genes': ['C406820', 'C494749', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C554586'], 'second_genes': ['C479220', 'C494749', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C406820', 'C554586'], 'second_genes': ['C494749', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C494749'], 'second_genes': ['C479220', 'C406820', 'C554586', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C494749'], 'second_genes': ['C406820', 'C554586', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C494749'], 'second_genes': ['C479220', 'C554586', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C406820', 'C494749'], 'second_genes': ['C554586', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C554586', 'C494749'], 'second_genes': ['C479220', 'C406820', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C554586', 'C494749'], 'second_genes': ['C406820', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C554586', 'C494749'], 'second_genes': ['C479220', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C406820', 'C554586', 'C494749'], 'second_genes': ['C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C418974'], 'second_genes': ['C479220', 'C406820', 'C554586', 'C494749'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C418974'], 'second_genes': ['C406820', 'C554586', 'C494749'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C418974'], 'second_genes': ['C479220', 'C554586', 'C494749'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C406820', 'C418974'], 'second_genes': ['C554586', 'C494749'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C554586', 'C418974'], 'second_genes': ['C479220', 'C406820', 'C494749'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C554586', 'C418974'], 'second_genes': ['C406820', 'C494749'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C554586', 'C418974'], 'second_genes': ['C479220', 'C494749'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C406820', 'C554586', 'C418974'], 'second_genes': ['C494749'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C494749', 'C418974'], 'second_genes': ['C479220', 'C406820', 'C554586'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C494749', 'C418974'], 'second_genes': ['C406820', 'C554586'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C494749', 'C418974'], 'second_genes': ['C479220', 'C554586'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C406820', 'C494749', 'C418974'], 'second_genes': ['C554586'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C554586', 'C494749', 'C418974'], 'second_genes': ['C479220', 'C406820'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C554586', 'C494749', 'C418974'], 'second_genes': ['C406820'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 28.0, 'lev': 0.02, 'conv': 0.96, 'unknown': 0}
+{'first_genes': ['C406820', 'C554586', 'C494749', 'C418974'], 'second_genes': ['C479220'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 28.0, 'lev': 0.02, 'conv': 0.96, 'unknown': 0}
+{'first_genes': ['C479220', 'C406820'], 'second_genes': ['C554586', 'C451162', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C554586'], 'second_genes': ['C479220', 'C406820', 'C451162', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C554586'], 'second_genes': ['C406820', 'C451162', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C554586'], 'second_genes': ['C479220', 'C451162', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C406820', 'C554586'], 'second_genes': ['C451162', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C451162'], 'second_genes': ['C479220', 'C406820', 'C554586', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C451162'], 'second_genes': ['C406820', 'C554586', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C451162'], 'second_genes': ['C479220', 'C554586', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C406820', 'C451162'], 'second_genes': ['C554586', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C554586', 'C451162'], 'second_genes': ['C479220', 'C406820', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C554586', 'C451162'], 'second_genes': ['C406820', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C554586', 'C451162'], 'second_genes': ['C479220', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C406820', 'C554586', 'C451162'], 'second_genes': ['C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C418974'], 'second_genes': ['C479220', 'C406820', 'C554586', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C418974'], 'second_genes': ['C406820', 'C554586', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C418974'], 'second_genes': ['C479220', 'C554586', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C406820', 'C418974'], 'second_genes': ['C554586', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C554586', 'C418974'], 'second_genes': ['C479220', 'C406820', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C554586', 'C418974'], 'second_genes': ['C406820', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C554586', 'C418974'], 'second_genes': ['C479220', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C406820', 'C554586', 'C418974'], 'second_genes': ['C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C451162', 'C418974'], 'second_genes': ['C479220', 'C406820', 'C554586'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C451162', 'C418974'], 'second_genes': ['C406820', 'C554586'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C451162', 'C418974'], 'second_genes': ['C479220', 'C554586'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C406820', 'C451162', 'C418974'], 'second_genes': ['C554586'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C554586', 'C451162', 'C418974'], 'second_genes': ['C479220', 'C406820'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C554586', 'C451162', 'C418974'], 'second_genes': ['C406820'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 28.0, 'lev': 0.02, 'conv': 0.96, 'unknown': 0}
+{'first_genes': ['C406820', 'C554586', 'C451162', 'C418974'], 'second_genes': ['C479220'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 28.0, 'lev': 0.02, 'conv': 0.96, 'unknown': 0}
+{'first_genes': ['C479220', 'C406820'], 'second_genes': ['C494749', 'C451162', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C494749'], 'second_genes': ['C479220', 'C406820', 'C451162', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C494749'], 'second_genes': ['C406820', 'C451162', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C494749'], 'second_genes': ['C479220', 'C451162', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C406820', 'C494749'], 'second_genes': ['C451162', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C451162'], 'second_genes': ['C479220', 'C406820', 'C494749', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C451162'], 'second_genes': ['C406820', 'C494749', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C451162'], 'second_genes': ['C479220', 'C494749', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C406820', 'C451162'], 'second_genes': ['C494749', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C494749', 'C451162'], 'second_genes': ['C479220', 'C406820', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C494749', 'C451162'], 'second_genes': ['C406820', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C494749', 'C451162'], 'second_genes': ['C479220', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C406820', 'C494749', 'C451162'], 'second_genes': ['C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C418974'], 'second_genes': ['C479220', 'C406820', 'C494749', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C418974'], 'second_genes': ['C406820', 'C494749', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C418974'], 'second_genes': ['C479220', 'C494749', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C406820', 'C418974'], 'second_genes': ['C494749', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C494749', 'C418974'], 'second_genes': ['C479220', 'C406820', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C494749', 'C418974'], 'second_genes': ['C406820', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C494749', 'C418974'], 'second_genes': ['C479220', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C406820', 'C494749', 'C418974'], 'second_genes': ['C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C451162', 'C418974'], 'second_genes': ['C479220', 'C406820', 'C494749'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C451162', 'C418974'], 'second_genes': ['C406820', 'C494749'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C451162', 'C418974'], 'second_genes': ['C479220', 'C494749'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C406820', 'C451162', 'C418974'], 'second_genes': ['C494749'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C494749', 'C451162', 'C418974'], 'second_genes': ['C479220', 'C406820'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C494749', 'C451162', 'C418974'], 'second_genes': ['C406820'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 28.0, 'lev': 0.02, 'conv': 0.96, 'unknown': 0}
+{'first_genes': ['C406820', 'C494749', 'C451162', 'C418974'], 'second_genes': ['C479220'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 28.0, 'lev': 0.02, 'conv': 0.96, 'unknown': 0}
+{'first_genes': ['C554586'], 'second_genes': ['C479220', 'C494749', 'C451162', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C554586'], 'second_genes': ['C494749', 'C451162', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C494749'], 'second_genes': ['C479220', 'C554586', 'C451162', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C494749'], 'second_genes': ['C554586', 'C451162', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C554586', 'C494749'], 'second_genes': ['C479220', 'C451162', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C554586', 'C494749'], 'second_genes': ['C451162', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C451162'], 'second_genes': ['C479220', 'C554586', 'C494749', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C451162'], 'second_genes': ['C554586', 'C494749', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C554586', 'C451162'], 'second_genes': ['C479220', 'C494749', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C554586', 'C451162'], 'second_genes': ['C494749', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C494749', 'C451162'], 'second_genes': ['C479220', 'C554586', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C494749', 'C451162'], 'second_genes': ['C554586', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C554586', 'C494749', 'C451162'], 'second_genes': ['C479220', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C554586', 'C494749', 'C451162'], 'second_genes': ['C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C418974'], 'second_genes': ['C479220', 'C554586', 'C494749', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C418974'], 'second_genes': ['C554586', 'C494749', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C554586', 'C418974'], 'second_genes': ['C479220', 'C494749', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C554586', 'C418974'], 'second_genes': ['C494749', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C494749', 'C418974'], 'second_genes': ['C479220', 'C554586', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C494749', 'C418974'], 'second_genes': ['C554586', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C554586', 'C494749', 'C418974'], 'second_genes': ['C479220', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C554586', 'C494749', 'C418974'], 'second_genes': ['C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C451162', 'C418974'], 'second_genes': ['C479220', 'C554586', 'C494749'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C451162', 'C418974'], 'second_genes': ['C554586', 'C494749'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C554586', 'C451162', 'C418974'], 'second_genes': ['C479220', 'C494749'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C554586', 'C451162', 'C418974'], 'second_genes': ['C494749'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C494749', 'C451162', 'C418974'], 'second_genes': ['C479220', 'C554586'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C494749', 'C451162', 'C418974'], 'second_genes': ['C554586'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C554586', 'C494749', 'C451162', 'C418974'], 'second_genes': ['C479220'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 28.0, 'lev': 0.02, 'conv': 0.96, 'unknown': 0}
+{'first_genes': ['C554586'], 'second_genes': ['C406820', 'C494749', 'C451162', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C554586'], 'second_genes': ['C494749', 'C451162', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C494749'], 'second_genes': ['C406820', 'C554586', 'C451162', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C494749'], 'second_genes': ['C554586', 'C451162', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C554586', 'C494749'], 'second_genes': ['C406820', 'C451162', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C554586', 'C494749'], 'second_genes': ['C451162', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C451162'], 'second_genes': ['C406820', 'C554586', 'C494749', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C451162'], 'second_genes': ['C554586', 'C494749', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C554586', 'C451162'], 'second_genes': ['C406820', 'C494749', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C554586', 'C451162'], 'second_genes': ['C494749', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C494749', 'C451162'], 'second_genes': ['C406820', 'C554586', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C494749', 'C451162'], 'second_genes': ['C554586', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C554586', 'C494749', 'C451162'], 'second_genes': ['C406820', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C554586', 'C494749', 'C451162'], 'second_genes': ['C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C418974'], 'second_genes': ['C406820', 'C554586', 'C494749', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C418974'], 'second_genes': ['C554586', 'C494749', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C554586', 'C418974'], 'second_genes': ['C406820', 'C494749', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C554586', 'C418974'], 'second_genes': ['C494749', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C494749', 'C418974'], 'second_genes': ['C406820', 'C554586', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C494749', 'C418974'], 'second_genes': ['C554586', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C554586', 'C494749', 'C418974'], 'second_genes': ['C406820', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C554586', 'C494749', 'C418974'], 'second_genes': ['C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C451162', 'C418974'], 'second_genes': ['C406820', 'C554586', 'C494749'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C451162', 'C418974'], 'second_genes': ['C554586', 'C494749'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C554586', 'C451162', 'C418974'], 'second_genes': ['C406820', 'C494749'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C554586', 'C451162', 'C418974'], 'second_genes': ['C494749'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C494749', 'C451162', 'C418974'], 'second_genes': ['C406820', 'C554586'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C494749', 'C451162', 'C418974'], 'second_genes': ['C554586'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C554586', 'C494749', 'C451162', 'C418974'], 'second_genes': ['C406820'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 28.0, 'lev': 0.02, 'conv': 0.96, 'unknown': 0}
+{'first_genes': ['C479220', 'C406820'], 'second_genes': ['C554586', 'C494749', 'C451162', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C554586'], 'second_genes': ['C479220', 'C406820', 'C494749', 'C451162', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C554586'], 'second_genes': ['C406820', 'C494749', 'C451162', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C554586'], 'second_genes': ['C479220', 'C494749', 'C451162', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C406820', 'C554586'], 'second_genes': ['C494749', 'C451162', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C494749'], 'second_genes': ['C479220', 'C406820', 'C554586', 'C451162', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C494749'], 'second_genes': ['C406820', 'C554586', 'C451162', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C494749'], 'second_genes': ['C479220', 'C554586', 'C451162', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C406820', 'C494749'], 'second_genes': ['C554586', 'C451162', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C554586', 'C494749'], 'second_genes': ['C479220', 'C406820', 'C451162', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C554586', 'C494749'], 'second_genes': ['C406820', 'C451162', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C554586', 'C494749'], 'second_genes': ['C479220', 'C451162', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C406820', 'C554586', 'C494749'], 'second_genes': ['C451162', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C451162'], 'second_genes': ['C479220', 'C406820', 'C554586', 'C494749', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C451162'], 'second_genes': ['C406820', 'C554586', 'C494749', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C451162'], 'second_genes': ['C479220', 'C554586', 'C494749', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C406820', 'C451162'], 'second_genes': ['C554586', 'C494749', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C554586', 'C451162'], 'second_genes': ['C479220', 'C406820', 'C494749', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C554586', 'C451162'], 'second_genes': ['C406820', 'C494749', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C554586', 'C451162'], 'second_genes': ['C479220', 'C494749', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C406820', 'C554586', 'C451162'], 'second_genes': ['C494749', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C494749', 'C451162'], 'second_genes': ['C479220', 'C406820', 'C554586', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C494749', 'C451162'], 'second_genes': ['C406820', 'C554586', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C494749', 'C451162'], 'second_genes': ['C479220', 'C554586', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C406820', 'C494749', 'C451162'], 'second_genes': ['C554586', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C554586', 'C494749', 'C451162'], 'second_genes': ['C479220', 'C406820', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C554586', 'C494749', 'C451162'], 'second_genes': ['C406820', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C554586', 'C494749', 'C451162'], 'second_genes': ['C479220', 'C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C406820', 'C554586', 'C494749', 'C451162'], 'second_genes': ['C418974'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C418974'], 'second_genes': ['C479220', 'C406820', 'C554586', 'C494749', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C418974'], 'second_genes': ['C406820', 'C554586', 'C494749', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C418974'], 'second_genes': ['C479220', 'C554586', 'C494749', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C406820', 'C418974'], 'second_genes': ['C554586', 'C494749', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C554586', 'C418974'], 'second_genes': ['C479220', 'C406820', 'C494749', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C554586', 'C418974'], 'second_genes': ['C406820', 'C494749', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C554586', 'C418974'], 'second_genes': ['C479220', 'C494749', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C406820', 'C554586', 'C418974'], 'second_genes': ['C494749', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C494749', 'C418974'], 'second_genes': ['C479220', 'C406820', 'C554586', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C494749', 'C418974'], 'second_genes': ['C406820', 'C554586', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C494749', 'C418974'], 'second_genes': ['C479220', 'C554586', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C406820', 'C494749', 'C418974'], 'second_genes': ['C554586', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C554586', 'C494749', 'C418974'], 'second_genes': ['C479220', 'C406820', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C554586', 'C494749', 'C418974'], 'second_genes': ['C406820', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C554586', 'C494749', 'C418974'], 'second_genes': ['C479220', 'C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C406820', 'C554586', 'C494749', 'C418974'], 'second_genes': ['C451162'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C451162', 'C418974'], 'second_genes': ['C479220', 'C406820', 'C554586', 'C494749'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C451162', 'C418974'], 'second_genes': ['C406820', 'C554586', 'C494749'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C451162', 'C418974'], 'second_genes': ['C479220', 'C554586', 'C494749'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C406820', 'C451162', 'C418974'], 'second_genes': ['C554586', 'C494749'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C554586', 'C451162', 'C418974'], 'second_genes': ['C479220', 'C406820', 'C494749'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C554586', 'C451162', 'C418974'], 'second_genes': ['C406820', 'C494749'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C554586', 'C451162', 'C418974'], 'second_genes': ['C479220', 'C494749'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C406820', 'C554586', 'C451162', 'C418974'], 'second_genes': ['C494749'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C494749', 'C451162', 'C418974'], 'second_genes': ['C479220', 'C406820', 'C554586'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C494749', 'C451162', 'C418974'], 'second_genes': ['C406820', 'C554586'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820', 'C494749', 'C451162', 'C418974'], 'second_genes': ['C479220', 'C554586'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C406820', 'C494749', 'C451162', 'C418974'], 'second_genes': ['C554586'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C554586', 'C494749', 'C451162', 'C418974'], 'second_genes': ['C479220', 'C406820'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 56.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220', 'C554586', 'C494749', 'C451162', 'C418974'], 'second_genes': ['C406820'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 28.0, 'lev': 0.02, 'conv': 0.96, 'unknown': 0}
+{'first_genes': ['C406820', 'C554586', 'C494749', 'C451162', 'C418974'], 'second_genes': ['C479220'], 'first_count': 1, 'second_count': 1, 'conf': 1.0, 'lift': 28.0, 'lev': 0.02, 'conv': 0.96, 'unknown': 0}
+{'first_genes': ['C083169'], 'second_genes': ['C112381'], 'first_count': 3, 'second_count': 2, 'conf': 0.67, 'lift': 3.39, 'lev': 0.03, 'conv': 1.21, 'unknown': 0}
+{'first_genes': ['C548592'], 'second_genes': ['C548593'], 'first_count': 3, 'second_count': 2, 'conf': 0.67, 'lift': 18.67, 'lev': 0.03, 'conv': 1.45, 'unknown': 0}
+{'first_genes': ['C548592'], 'second_genes': ['C544814'], 'first_count': 3, 'second_count': 2, 'conf': 0.67, 'lift': 18.67, 'lev': 0.03, 'conv': 1.45, 'unknown': 0}
+{'first_genes': ['C083169'], 'second_genes': ['C041116'], 'first_count': 3, 'second_count': 2, 'conf': 0.67, 'lift': 12.44, 'lev': 0.03, 'conv': 1.42, 'unknown': 0}
+{'first_genes': ['C041116'], 'second_genes': ['C083169'], 'first_count': 3, 'second_count': 2, 'conf': 0.67, 'lift': 12.44, 'lev': 0.03, 'conv': 1.42, 'unknown': 0}
+{'first_genes': ['C548592'], 'second_genes': ['C548593', 'C544814'], 'first_count': 3, 'second_count': 2, 'conf': 0.67, 'lift': 18.67, 'lev': 0.03, 'conv': 1.45, 'unknown': 0}
+{'first_genes': ['C093875'], 'second_genes': ['C112381'], 'first_count': 4, 'second_count': 2, 'conf': 0.5, 'lift': 2.55, 'lev': 0.02, 'conv': 1.07, 'unknown': 0}
+{'first_genes': ['C483024'], 'second_genes': ['C112381'], 'first_count': 2, 'second_count': 1, 'conf': 0.5, 'lift': 2.55, 'lev': 0.01, 'conv': 0.8, 'unknown': 0}
+{'first_genes': ['C483024'], 'second_genes': ['C093875'], 'first_count': 2, 'second_count': 1, 'conf': 0.5, 'lift': 7.0, 'lev': 0.02, 'conv': 0.93, 'unknown': 0}
+{'first_genes': ['C548593'], 'second_genes': ['C548594'], 'first_count': 2, 'second_count': 1, 'conf': 0.5, 'lift': 28.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C544814'], 'second_genes': ['C548594'], 'first_count': 2, 'second_count': 1, 'conf': 0.5, 'lift': 28.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C483024'], 'second_genes': ['C479220'], 'first_count': 2, 'second_count': 1, 'conf': 0.5, 'lift': 14.0, 'lev': 0.02, 'conv': 0.96, 'unknown': 0}
+{'first_genes': ['C479220'], 'second_genes': ['C483024'], 'first_count': 2, 'second_count': 1, 'conf': 0.5, 'lift': 14.0, 'lev': 0.02, 'conv': 0.96, 'unknown': 0}
+{'first_genes': ['C483024'], 'second_genes': ['C047681'], 'first_count': 2, 'second_count': 1, 'conf': 0.5, 'lift': 28.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220'], 'second_genes': ['C406820'], 'first_count': 2, 'second_count': 1, 'conf': 0.5, 'lift': 14.0, 'lev': 0.02, 'conv': 0.96, 'unknown': 0}
+{'first_genes': ['C406820'], 'second_genes': ['C479220'], 'first_count': 2, 'second_count': 1, 'conf': 0.5, 'lift': 14.0, 'lev': 0.02, 'conv': 0.96, 'unknown': 0}
+{'first_genes': ['C479220'], 'second_genes': ['C554586'], 'first_count': 2, 'second_count': 1, 'conf': 0.5, 'lift': 28.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220'], 'second_genes': ['C494749'], 'first_count': 2, 'second_count': 1, 'conf': 0.5, 'lift': 28.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220'], 'second_genes': ['C451162'], 'first_count': 2, 'second_count': 1, 'conf': 0.5, 'lift': 28.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220'], 'second_genes': ['C418974'], 'first_count': 2, 'second_count': 1, 'conf': 0.5, 'lift': 28.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820'], 'second_genes': ['C554586'], 'first_count': 2, 'second_count': 1, 'conf': 0.5, 'lift': 28.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820'], 'second_genes': ['C494749'], 'first_count': 2, 'second_count': 1, 'conf': 0.5, 'lift': 28.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820'], 'second_genes': ['C451162'], 'first_count': 2, 'second_count': 1, 'conf': 0.5, 'lift': 28.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820'], 'second_genes': ['C418974'], 'first_count': 2, 'second_count': 1, 'conf': 0.5, 'lift': 28.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820'], 'second_genes': ['C101530'], 'first_count': 2, 'second_count': 1, 'conf': 0.5, 'lift': 28.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C112381', 'C093875'], 'second_genes': ['C483024'], 'first_count': 2, 'second_count': 1, 'conf': 0.5, 'lift': 14.0, 'lev': 0.02, 'conv': 0.96, 'unknown': 0}
+{'first_genes': ['C483024'], 'second_genes': ['C112381', 'C093875'], 'first_count': 2, 'second_count': 1, 'conf': 0.5, 'lift': 14.0, 'lev': 0.02, 'conv': 0.96, 'unknown': 0}
+{'first_genes': ['C112381', 'C093875'], 'second_genes': ['C047681'], 'first_count': 2, 'second_count': 1, 'conf': 0.5, 'lift': 28.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C112381', 'C083169'], 'second_genes': ['C041116'], 'first_count': 2, 'second_count': 1, 'conf': 0.5, 'lift': 9.33, 'lev': 0.02, 'conv': 0.95, 'unknown': 0}
+{'first_genes': ['C083169', 'C041116'], 'second_genes': ['C112381'], 'first_count': 2, 'second_count': 1, 'conf': 0.5, 'lift': 2.55, 'lev': 0.01, 'conv': 0.8, 'unknown': 0}
+{'first_genes': ['C483024'], 'second_genes': ['C112381', 'C047681'], 'first_count': 2, 'second_count': 1, 'conf': 0.5, 'lift': 28.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C483024'], 'second_genes': ['C093875', 'C047681'], 'first_count': 2, 'second_count': 1, 'conf': 0.5, 'lift': 28.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C083169', 'C041116'], 'second_genes': ['C548592'], 'first_count': 2, 'second_count': 1, 'conf': 0.5, 'lift': 9.33, 'lev': 0.02, 'conv': 0.95, 'unknown': 0}
+{'first_genes': ['C548593'], 'second_genes': ['C548592', 'C548594'], 'first_count': 2, 'second_count': 1, 'conf': 0.5, 'lift': 28.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C548592', 'C548593'], 'second_genes': ['C548594'], 'first_count': 2, 'second_count': 1, 'conf': 0.5, 'lift': 28.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C544814'], 'second_genes': ['C548592', 'C548594'], 'first_count': 2, 'second_count': 1, 'conf': 0.5, 'lift': 28.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C548592', 'C544814'], 'second_genes': ['C548594'], 'first_count': 2, 'second_count': 1, 'conf': 0.5, 'lift': 28.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C083169', 'C041116'], 'second_genes': ['C043134'], 'first_count': 2, 'second_count': 1, 'conf': 0.5, 'lift': 28.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C548593'], 'second_genes': ['C544814', 'C548594'], 'first_count': 2, 'second_count': 1, 'conf': 0.5, 'lift': 28.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C544814'], 'second_genes': ['C548593', 'C548594'], 'first_count': 2, 'second_count': 1, 'conf': 0.5, 'lift': 28.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C548593', 'C544814'], 'second_genes': ['C548594'], 'first_count': 2, 'second_count': 1, 'conf': 0.5, 'lift': 28.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220'], 'second_genes': ['C406820', 'C554586'], 'first_count': 2, 'second_count': 1, 'conf': 0.5, 'lift': 28.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820'], 'second_genes': ['C479220', 'C554586'], 'first_count': 2, 'second_count': 1, 'conf': 0.5, 'lift': 28.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220'], 'second_genes': ['C406820', 'C494749'], 'first_count': 2, 'second_count': 1, 'conf': 0.5, 'lift': 28.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820'], 'second_genes': ['C479220', 'C494749'], 'first_count': 2, 'second_count': 1, 'conf': 0.5, 'lift': 28.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220'], 'second_genes': ['C406820', 'C451162'], 'first_count': 2, 'second_count': 1, 'conf': 0.5, 'lift': 28.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820'], 'second_genes': ['C479220', 'C451162'], 'first_count': 2, 'second_count': 1, 'conf': 0.5, 'lift': 28.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220'], 'second_genes': ['C406820', 'C418974'], 'first_count': 2, 'second_count': 1, 'conf': 0.5, 'lift': 28.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820'], 'second_genes': ['C479220', 'C418974'], 'first_count': 2, 'second_count': 1, 'conf': 0.5, 'lift': 28.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220'], 'second_genes': ['C554586', 'C494749'], 'first_count': 2, 'second_count': 1, 'conf': 0.5, 'lift': 28.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220'], 'second_genes': ['C554586', 'C451162'], 'first_count': 2, 'second_count': 1, 'conf': 0.5, 'lift': 28.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220'], 'second_genes': ['C554586', 'C418974'], 'first_count': 2, 'second_count': 1, 'conf': 0.5, 'lift': 28.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220'], 'second_genes': ['C494749', 'C451162'], 'first_count': 2, 'second_count': 1, 'conf': 0.5, 'lift': 28.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220'], 'second_genes': ['C494749', 'C418974'], 'first_count': 2, 'second_count': 1, 'conf': 0.5, 'lift': 28.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220'], 'second_genes': ['C451162', 'C418974'], 'first_count': 2, 'second_count': 1, 'conf': 0.5, 'lift': 28.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820'], 'second_genes': ['C554586', 'C494749'], 'first_count': 2, 'second_count': 1, 'conf': 0.5, 'lift': 28.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820'], 'second_genes': ['C554586', 'C451162'], 'first_count': 2, 'second_count': 1, 'conf': 0.5, 'lift': 28.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820'], 'second_genes': ['C554586', 'C418974'], 'first_count': 2, 'second_count': 1, 'conf': 0.5, 'lift': 28.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820'], 'second_genes': ['C494749', 'C451162'], 'first_count': 2, 'second_count': 1, 'conf': 0.5, 'lift': 28.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820'], 'second_genes': ['C494749', 'C418974'], 'first_count': 2, 'second_count': 1, 'conf': 0.5, 'lift': 28.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820'], 'second_genes': ['C451162', 'C418974'], 'first_count': 2, 'second_count': 1, 'conf': 0.5, 'lift': 28.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C112381', 'C093875'], 'second_genes': ['C483024', 'C047681'], 'first_count': 2, 'second_count': 1, 'conf': 0.5, 'lift': 28.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C483024'], 'second_genes': ['C112381', 'C093875', 'C047681'], 'first_count': 2, 'second_count': 1, 'conf': 0.5, 'lift': 28.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C083169', 'C041116'], 'second_genes': ['C548592', 'C043134'], 'first_count': 2, 'second_count': 1, 'conf': 0.5, 'lift': 28.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C548593'], 'second_genes': ['C548592', 'C544814', 'C548594'], 'first_count': 2, 'second_count': 1, 'conf': 0.5, 'lift': 28.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C548592', 'C548593'], 'second_genes': ['C544814', 'C548594'], 'first_count': 2, 'second_count': 1, 'conf': 0.5, 'lift': 28.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C544814'], 'second_genes': ['C548592', 'C548593', 'C548594'], 'first_count': 2, 'second_count': 1, 'conf': 0.5, 'lift': 28.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C548592', 'C544814'], 'second_genes': ['C548593', 'C548594'], 'first_count': 2, 'second_count': 1, 'conf': 0.5, 'lift': 28.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C548593', 'C544814'], 'second_genes': ['C548592', 'C548594'], 'first_count': 2, 'second_count': 1, 'conf': 0.5, 'lift': 28.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C548592', 'C548593', 'C544814'], 'second_genes': ['C548594'], 'first_count': 2, 'second_count': 1, 'conf': 0.5, 'lift': 28.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220'], 'second_genes': ['C406820', 'C554586', 'C494749'], 'first_count': 2, 'second_count': 1, 'conf': 0.5, 'lift': 28.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820'], 'second_genes': ['C479220', 'C554586', 'C494749'], 'first_count': 2, 'second_count': 1, 'conf': 0.5, 'lift': 28.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220'], 'second_genes': ['C406820', 'C554586', 'C451162'], 'first_count': 2, 'second_count': 1, 'conf': 0.5, 'lift': 28.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820'], 'second_genes': ['C479220', 'C554586', 'C451162'], 'first_count': 2, 'second_count': 1, 'conf': 0.5, 'lift': 28.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220'], 'second_genes': ['C406820', 'C554586', 'C418974'], 'first_count': 2, 'second_count': 1, 'conf': 0.5, 'lift': 28.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820'], 'second_genes': ['C479220', 'C554586', 'C418974'], 'first_count': 2, 'second_count': 1, 'conf': 0.5, 'lift': 28.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220'], 'second_genes': ['C406820', 'C494749', 'C451162'], 'first_count': 2, 'second_count': 1, 'conf': 0.5, 'lift': 28.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820'], 'second_genes': ['C479220', 'C494749', 'C451162'], 'first_count': 2, 'second_count': 1, 'conf': 0.5, 'lift': 28.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220'], 'second_genes': ['C406820', 'C494749', 'C418974'], 'first_count': 2, 'second_count': 1, 'conf': 0.5, 'lift': 28.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820'], 'second_genes': ['C479220', 'C494749', 'C418974'], 'first_count': 2, 'second_count': 1, 'conf': 0.5, 'lift': 28.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220'], 'second_genes': ['C406820', 'C451162', 'C418974'], 'first_count': 2, 'second_count': 1, 'conf': 0.5, 'lift': 28.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820'], 'second_genes': ['C479220', 'C451162', 'C418974'], 'first_count': 2, 'second_count': 1, 'conf': 0.5, 'lift': 28.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220'], 'second_genes': ['C554586', 'C494749', 'C451162'], 'first_count': 2, 'second_count': 1, 'conf': 0.5, 'lift': 28.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220'], 'second_genes': ['C554586', 'C494749', 'C418974'], 'first_count': 2, 'second_count': 1, 'conf': 0.5, 'lift': 28.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220'], 'second_genes': ['C554586', 'C451162', 'C418974'], 'first_count': 2, 'second_count': 1, 'conf': 0.5, 'lift': 28.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220'], 'second_genes': ['C494749', 'C451162', 'C418974'], 'first_count': 2, 'second_count': 1, 'conf': 0.5, 'lift': 28.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820'], 'second_genes': ['C554586', 'C494749', 'C451162'], 'first_count': 2, 'second_count': 1, 'conf': 0.5, 'lift': 28.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820'], 'second_genes': ['C554586', 'C494749', 'C418974'], 'first_count': 2, 'second_count': 1, 'conf': 0.5, 'lift': 28.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820'], 'second_genes': ['C554586', 'C451162', 'C418974'], 'first_count': 2, 'second_count': 1, 'conf': 0.5, 'lift': 28.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820'], 'second_genes': ['C494749', 'C451162', 'C418974'], 'first_count': 2, 'second_count': 1, 'conf': 0.5, 'lift': 28.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220'], 'second_genes': ['C406820', 'C554586', 'C494749', 'C451162'], 'first_count': 2, 'second_count': 1, 'conf': 0.5, 'lift': 28.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820'], 'second_genes': ['C479220', 'C554586', 'C494749', 'C451162'], 'first_count': 2, 'second_count': 1, 'conf': 0.5, 'lift': 28.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220'], 'second_genes': ['C406820', 'C554586', 'C494749', 'C418974'], 'first_count': 2, 'second_count': 1, 'conf': 0.5, 'lift': 28.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820'], 'second_genes': ['C479220', 'C554586', 'C494749', 'C418974'], 'first_count': 2, 'second_count': 1, 'conf': 0.5, 'lift': 28.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220'], 'second_genes': ['C406820', 'C554586', 'C451162', 'C418974'], 'first_count': 2, 'second_count': 1, 'conf': 0.5, 'lift': 28.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820'], 'second_genes': ['C479220', 'C554586', 'C451162', 'C418974'], 'first_count': 2, 'second_count': 1, 'conf': 0.5, 'lift': 28.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220'], 'second_genes': ['C406820', 'C494749', 'C451162', 'C418974'], 'first_count': 2, 'second_count': 1, 'conf': 0.5, 'lift': 28.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820'], 'second_genes': ['C479220', 'C494749', 'C451162', 'C418974'], 'first_count': 2, 'second_count': 1, 'conf': 0.5, 'lift': 28.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220'], 'second_genes': ['C554586', 'C494749', 'C451162', 'C418974'], 'first_count': 2, 'second_count': 1, 'conf': 0.5, 'lift': 28.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820'], 'second_genes': ['C554586', 'C494749', 'C451162', 'C418974'], 'first_count': 2, 'second_count': 1, 'conf': 0.5, 'lift': 28.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C479220'], 'second_genes': ['C406820', 'C554586', 'C494749', 'C451162', 'C418974'], 'first_count': 2, 'second_count': 1, 'conf': 0.5, 'lift': 28.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C406820'], 'second_genes': ['C479220', 'C554586', 'C494749', 'C451162', 'C418974'], 'first_count': 2, 'second_count': 1, 'conf': 0.5, 'lift': 28.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C075750'], 'second_genes': ['C112381'], 'first_count': 3, 'second_count': 1, 'conf': 0.33, 'lift': 1.7, 'lev': 0.01, 'conv': 0.8, 'unknown': 0}
+{'first_genes': ['C041116'], 'second_genes': ['C112381'], 'first_count': 3, 'second_count': 1, 'conf': 0.33, 'lift': 1.7, 'lev': 0.01, 'conv': 0.8, 'unknown': 0}
+{'first_genes': ['C548592'], 'second_genes': ['C083169'], 'first_count': 3, 'second_count': 1, 'conf': 0.33, 'lift': 6.22, 'lev': 0.01, 'conv': 0.95, 'unknown': 0}
+{'first_genes': ['C083169'], 'second_genes': ['C548592'], 'first_count': 3, 'second_count': 1, 'conf': 0.33, 'lift': 6.22, 'lev': 0.01, 'conv': 0.95, 'unknown': 0}
+{'first_genes': ['C548592'], 'second_genes': ['C041116'], 'first_count': 3, 'second_count': 1, 'conf': 0.33, 'lift': 6.22, 'lev': 0.01, 'conv': 0.95, 'unknown': 0}
+{'first_genes': ['C041116'], 'second_genes': ['C548592'], 'first_count': 3, 'second_count': 1, 'conf': 0.33, 'lift': 6.22, 'lev': 0.01, 'conv': 0.95, 'unknown': 0}
+{'first_genes': ['C548592'], 'second_genes': ['C548594'], 'first_count': 3, 'second_count': 1, 'conf': 0.33, 'lift': 18.67, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C548592'], 'second_genes': ['C043134'], 'first_count': 3, 'second_count': 1, 'conf': 0.33, 'lift': 18.67, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C083169'], 'second_genes': ['C043134'], 'first_count': 3, 'second_count': 1, 'conf': 0.33, 'lift': 18.67, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C041116'], 'second_genes': ['C043134'], 'first_count': 3, 'second_count': 1, 'conf': 0.33, 'lift': 18.67, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C083169'], 'second_genes': ['C112381', 'C041116'], 'first_count': 3, 'second_count': 1, 'conf': 0.33, 'lift': 18.67, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C041116'], 'second_genes': ['C112381', 'C083169'], 'first_count': 3, 'second_count': 1, 'conf': 0.33, 'lift': 9.33, 'lev': 0.02, 'conv': 0.96, 'unknown': 0}
+{'first_genes': ['C548592'], 'second_genes': ['C083169', 'C041116'], 'first_count': 3, 'second_count': 1, 'conf': 0.33, 'lift': 9.33, 'lev': 0.02, 'conv': 0.96, 'unknown': 0}
+{'first_genes': ['C083169'], 'second_genes': ['C548592', 'C041116'], 'first_count': 3, 'second_count': 1, 'conf': 0.33, 'lift': 18.67, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C041116'], 'second_genes': ['C548592', 'C083169'], 'first_count': 3, 'second_count': 1, 'conf': 0.33, 'lift': 18.67, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C548592'], 'second_genes': ['C083169', 'C043134'], 'first_count': 3, 'second_count': 1, 'conf': 0.33, 'lift': 18.67, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C083169'], 'second_genes': ['C548592', 'C043134'], 'first_count': 3, 'second_count': 1, 'conf': 0.33, 'lift': 18.67, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C548592'], 'second_genes': ['C041116', 'C043134'], 'first_count': 3, 'second_count': 1, 'conf': 0.33, 'lift': 18.67, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C041116'], 'second_genes': ['C548592', 'C043134'], 'first_count': 3, 'second_count': 1, 'conf': 0.33, 'lift': 18.67, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C548592'], 'second_genes': ['C548593', 'C548594'], 'first_count': 3, 'second_count': 1, 'conf': 0.33, 'lift': 18.67, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C548592'], 'second_genes': ['C544814', 'C548594'], 'first_count': 3, 'second_count': 1, 'conf': 0.33, 'lift': 18.67, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C083169'], 'second_genes': ['C041116', 'C043134'], 'first_count': 3, 'second_count': 1, 'conf': 0.33, 'lift': 18.67, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C041116'], 'second_genes': ['C083169', 'C043134'], 'first_count': 3, 'second_count': 1, 'conf': 0.33, 'lift': 18.67, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C548592'], 'second_genes': ['C083169', 'C041116', 'C043134'], 'first_count': 3, 'second_count': 1, 'conf': 0.33, 'lift': 18.67, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C083169'], 'second_genes': ['C548592', 'C041116', 'C043134'], 'first_count': 3, 'second_count': 1, 'conf': 0.33, 'lift': 18.67, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C041116'], 'second_genes': ['C548592', 'C083169', 'C043134'], 'first_count': 3, 'second_count': 1, 'conf': 0.33, 'lift': 18.67, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C548592'], 'second_genes': ['C548593', 'C544814', 'C548594'], 'first_count': 3, 'second_count': 1, 'conf': 0.33, 'lift': 18.67, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C093875'], 'second_genes': ['C483024'], 'first_count': 4, 'second_count': 1, 'conf': 0.25, 'lift': 7.0, 'lev': 0.02, 'conv': 0.96, 'unknown': 0}
+{'first_genes': ['C093875'], 'second_genes': ['C467498'], 'first_count': 4, 'second_count': 1, 'conf': 0.25, 'lift': 14.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C093875'], 'second_genes': ['C047681'], 'first_count': 4, 'second_count': 1, 'conf': 0.25, 'lift': 14.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C093875'], 'second_genes': ['C112381', 'C483024'], 'first_count': 4, 'second_count': 1, 'conf': 0.25, 'lift': 14.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C093875'], 'second_genes': ['C112381', 'C047681'], 'first_count': 4, 'second_count': 1, 'conf': 0.25, 'lift': 14.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C093875'], 'second_genes': ['C483024', 'C047681'], 'first_count': 4, 'second_count': 1, 'conf': 0.25, 'lift': 14.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C093875'], 'second_genes': ['C112381', 'C483024', 'C047681'], 'first_count': 4, 'second_count': 1, 'conf': 0.25, 'lift': 14.0, 'lev': 0.02, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C112381'], 'second_genes': ['C093875'], 'first_count': 11, 'second_count': 2, 'conf': 0.18, 'lift': 2.55, 'lev': 0.02, 'conv': 1.02, 'unknown': 0}
+{'first_genes': ['C112381'], 'second_genes': ['C083169'], 'first_count': 11, 'second_count': 2, 'conf': 0.18, 'lift': 3.39, 'lev': 0.03, 'conv': 1.04, 'unknown': 0}
+{'first_genes': ['C112381'], 'second_genes': ['C075750'], 'first_count': 11, 'second_count': 1, 'conf': 0.09, 'lift': 1.7, 'lev': 0.01, 'conv': 0.95, 'unknown': 0}
+{'first_genes': ['C112381'], 'second_genes': ['C041116'], 'first_count': 11, 'second_count': 1, 'conf': 0.09, 'lift': 1.7, 'lev': 0.01, 'conv': 0.95, 'unknown': 0}
+{'first_genes': ['C112381'], 'second_genes': ['C483024'], 'first_count': 11, 'second_count': 1, 'conf': 0.09, 'lift': 2.55, 'lev': 0.01, 'conv': 0.96, 'unknown': 0}
+{'first_genes': ['C112381'], 'second_genes': ['C059141'], 'first_count': 11, 'second_count': 1, 'conf': 0.09, 'lift': 5.09, 'lev': 0.01, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C112381'], 'second_genes': ['C047681'], 'first_count': 11, 'second_count': 1, 'conf': 0.09, 'lift': 5.09, 'lev': 0.01, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C112381'], 'second_genes': ['C093875', 'C483024'], 'first_count': 11, 'second_count': 1, 'conf': 0.09, 'lift': 5.09, 'lev': 0.01, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C112381'], 'second_genes': ['C093875', 'C047681'], 'first_count': 11, 'second_count': 1, 'conf': 0.09, 'lift': 5.09, 'lev': 0.01, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C112381'], 'second_genes': ['C083169', 'C041116'], 'first_count': 11, 'second_count': 1, 'conf': 0.09, 'lift': 2.55, 'lev': 0.01, 'conv': 0.96, 'unknown': 0}
+{'first_genes': ['C112381'], 'second_genes': ['C483024', 'C047681'], 'first_count': 11, 'second_count': 1, 'conf': 0.09, 'lift': 5.09, 'lev': 0.01, 'conv': 0.98, 'unknown': 0}
+{'first_genes': ['C112381'], 'second_genes': ['C093875', 'C483024', 'C047681'], 'first_count': 11, 'second_count': 1, 'conf': 0.09, 'lift': 5.09, 'lev': 0.01, 'conv': 0.98, 'unknown': 0}
+max: 2247.466666666662 min: 3.4

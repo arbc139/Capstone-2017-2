@@ -1,0 +1,36 @@
+1915
+1916
+1917
+1918
+1919
+200
+Traceback (most recent call last):
+  File "get_pmid.py", line 71, in <module>
+    job_has_pmid.append(int(line))
+ValueError: invalid literal for int() with base 10: '<?xml version="1.0" encoding="UTF-8" ?>'
+200
+Traceback (most recent call last):
+  File "get_pmid.py", line 71, in <module>
+    job_has_pmid.append(int(line))
+ValueError: invalid literal for int() with base 10: '<?xml version="1.0" encoding="UTF-8" ?>'
+200
+Traceback (most recent call last):
+  File "get_pmid.py", line 71, in <module>
+    job_has_pmid.append(int(line))
+ValueError: invalid literal for int() with base 10: '<?xml version="1.0" encoding="UTF-8" ?>'
+200
+Traceback (most recent call last):
+  File "get_pmid.py", line 71, in <module>
+    job_has_pmid.append(int(line))
+ValueError: invalid literal for int() with base 10: '<?xml version="1.0" encoding="UTF-8" ?>'
+200
+Traceback (most recent call last):
+  File "get_pmid.py", line 71, in <module>
+    job_has_pmid.append(int(line))
+ValueError: invalid literal for int() with base 10: '<?xml version="1.0" encoding="UTF-8" ?>'
+200
+Traceback (most recent call last):
+  File "get_pmid.py", line 71, in <module>
+    job_has_pmid.append(int(line))
+ValueError: invalid literal for int() with base 10: '<?xml version="1.0" encoding="UTF-8" ?>'
+1920

@@ -1,0 +1,10 @@
+Exception in thread "main" java.lang.OutOfMemoryError: Java heap space
+	at java.util.Arrays.copyOf(Arrays.java:3332)
+	at java.lang.AbstractStringBuilder.ensureCapacityInternal(AbstractStringBuilder.java:124)
+	at java.lang.AbstractStringBuilder.append(AbstractStringBuilder.java:448)
+	at java.lang.StringBuffer.append(StringBuffer.java:270)
+	at weka.associations.FPGrowth.toString(FPGrowth.java:2375)
+	at weka.associations.AssociatorEvaluation.evaluate(AssociatorEvaluation.java:195)
+	at weka.associations.AssociatorEvaluation.evaluate(AssociatorEvaluation.java:160)
+	at weka.associations.AbstractAssociator.runAssociator(AbstractAssociator.java:216)
+	at weka.associations.FPGrowth.main(FPGrowth.java:2434)

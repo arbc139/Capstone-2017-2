@@ -1,0 +1,24 @@
+/home/hogking/.pyenv/versions/3.6.0/lib/python3.6/site-packages/pymysql/cursors.py:323: Warning: (1452, '`hubmed`.`PMID_SUP`, CONSTRAINT `PMID_SUP_ibfk_2` FOREIGN KEY (`S_ID`) REFERENCES `SUP` (`S_ID`) ON DELETE CASCADE')
+  self._do_get_result()
+Traceback (most recent call last):
+  File "pmid_insertor.py", line 65, in <module>
+    curs.executemany(query, des_list)
+  File "/home/hogking/.pyenv/versions/3.6.0/lib/python3.6/site-packages/pymysql/cursors.py", line 193, in executemany
+    self._get_db().encoding)
+  File "/home/hogking/.pyenv/versions/3.6.0/lib/python3.6/site-packages/pymysql/cursors.py", line 225, in _do_execute_many
+    rows += self.execute(sql + postfix)
+  File "/home/hogking/.pyenv/versions/3.6.0/lib/python3.6/site-packages/pymysql/cursors.py", line 166, in execute
+    result = self._query(query)
+  File "/home/hogking/.pyenv/versions/3.6.0/lib/python3.6/site-packages/pymysql/cursors.py", line 322, in _query
+    conn.query(q)
+  File "/home/hogking/.pyenv/versions/3.6.0/lib/python3.6/site-packages/pymysql/connections.py", line 856, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/hogking/.pyenv/versions/3.6.0/lib/python3.6/site-packages/pymysql/connections.py", line 1057, in _read_query_result
+    result.read()
+  File "/home/hogking/.pyenv/versions/3.6.0/lib/python3.6/site-packages/pymysql/connections.py", line 1340, in read
+    first_packet = self.connection._read_packet()
+  File "/home/hogking/.pyenv/versions/3.6.0/lib/python3.6/site-packages/pymysql/connections.py", line 987, in _read_packet
+    packet_header = self._read_bytes(4)
+  File "/home/hogking/.pyenv/versions/3.6.0/lib/python3.6/site-packages/pymysql/connections.py", line 1033, in _read_bytes
+    CR.CR_SERVER_LOST, "Lost connection to MySQL server during query")
+pymysql.err.OperationalError: (2013, 'Lost connection to MySQL server during query')

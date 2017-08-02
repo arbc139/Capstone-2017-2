@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "weka_analysis.py", line 4, in <module>
+    j_id = sys.argv[1]
+IndexError: list index out of range
